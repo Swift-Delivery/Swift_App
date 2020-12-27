@@ -15,10 +15,14 @@ Include:
 - Cashback and bonuses for Monetizing the process
 - Deliver and Gain
 
-![login](https://github.com/Swift-Delivery/Swift_App/blob/main/img/Screenshot%20(357).png)
+![login](https://github.com/Swift-Delivery/Swift_App/blob/main/img/Screenshot%20(359).png)
 ## Getting Help
 
 If you have questions or need further guidance on using this template, please [file an issue](https://github.com/Swift-Delivery/Swift_App/issues). I will do my best to respond to all issues in a timely manner.
+
+![login](https://github.com/Swift-Delivery/Swift_App/blob/main/img/Screenshot%20(370).png)
+
+![login](https://github.com/Swift-Delivery/Swift_App/blob/main/img/Screenshot%20(365).png)
 
 ## Contributing Guidelines
 
