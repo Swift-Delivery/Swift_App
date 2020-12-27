@@ -24,6 +24,8 @@ If you have questions or need further guidance on using this template, please [f
 
 ![login](https://github.com/Swift-Delivery/Swift_App/blob/main/img/Screenshot%20(365).png)
 
+![login](https://github.com/Swift-Delivery/Swift_App/blob/main/img/Screenshot%20(368).png)
+
 ## Contributing Guidelines
 
 All contributions and suggestions are welcome!
